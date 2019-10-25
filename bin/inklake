@@ -1,0 +1,3 @@
+#! /usr/local/node
+import *  as cli from "inklake-cli";
+cli.start();

@@ -1,0 +1,23 @@
+{
+  "name": "inklake",
+  "version": "0.0.1",
+  "description": "A fast,fiexible blog application",
+  "main": "index.js",
+  "repository": "https://github.com/SummeryTime/inklake",
+  "author": "SummeryTime",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^2.0.4",
+    "showdown": "^1.9.0",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.7",
+    "eslint": "^6.5.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
